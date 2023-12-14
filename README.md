@@ -56,7 +56,7 @@ The both long command-lines have a same structure, they pipe multiple commands u
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/henok-solomon-a3b537206"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://medium.com/@heneyr24"><img align="left" 
+<a href="https://medium.com/@heneyr24/sentiment-analysis-784992f52b85"><img align="left" 
 src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/>
 </a>
 
